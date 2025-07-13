@@ -20,6 +20,8 @@ This repository is created with the goal of:
 
 ## 🛠 Topics Covered (So far)
 
+- **Special Variables**
+  
 - **Tcl Variables**
 
 **... To be Continued ...**
