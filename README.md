@@ -25,6 +25,8 @@ This repository is created with the goal of:
 - **Special Variables**
   
 - **Tcl Variables**
+  
+- - **Tcl Datatypes**
 
 **... To be Continued ...**
 
