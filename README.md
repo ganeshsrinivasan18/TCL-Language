@@ -28,6 +28,12 @@ This repository is created with the goal of:
   
 - **Tcl Datatypes**
 
+- **Variable Naming**
+
+- **Mathematical Expression**
+
+- **Dynamic Typing**
+
 **... To be Continued ...**
 
 ## 🚀 How to Use
