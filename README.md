@@ -34,6 +34,9 @@ This repository is created with the goal of:
 
 - **Dynamic Typing**
 
+- **Operators**
+
+
 **... To be Continued ...**
 
 ## 🚀 How to Use
