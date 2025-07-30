@@ -36,6 +36,8 @@ This repository is created with the goal of:
 
 - **Operators**
 
+- **Decisions** 
+
 
 **... To be Continued ...**
 
