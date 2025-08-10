@@ -38,7 +38,9 @@ This repository is created with the goal of:
 
 - **Decisions**
 
-- **Loops** 
+- **Loops**
+
+- **Arrays**
 
 
 **... To be Continued ...**
