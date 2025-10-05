@@ -41,6 +41,8 @@ This repository is created with the goal of:
 - **Loops**
 
 - **Arrays**
+  
+- **Strings**
 
 
 **... To be Continued ...**
