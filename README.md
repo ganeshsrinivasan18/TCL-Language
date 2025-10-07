@@ -44,6 +44,8 @@ This repository is created with the goal of:
   
 - **Strings**
 
+-- **Lists** 
+
 
 **... To be Continued ...**
 
